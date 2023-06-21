@@ -1,13 +1,3 @@
------------------
-NOTE: Do not ask me about ROMS, I don't have them 
-and I do not care that you can't find any for download!
------------------
-
-psp-fceultra Release 1!
-=====================
-
-psp-fceultra  is a port of the NES/Famicom emulator fceultra to 
-the psp.
 
 Features:
  - Support for loads of nes roms (Best compatability of any nes emu on the psp??)
